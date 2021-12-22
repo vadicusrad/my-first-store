@@ -1,2 +1,2 @@
 # my-first-store
-This is online store on JavaScript
+This is simple online store on JavaScript
